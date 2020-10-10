@@ -6,6 +6,7 @@
 // Összadás
 $a = 10;
 $b = 15;
-print $a+$b;
+$c = 12;
+print $a+$b+c;
 
 ?>
